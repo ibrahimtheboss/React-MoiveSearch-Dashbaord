@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+### Screenshot of the Movie Dashboard App
+![MarineGEO circle logo](app-sample.jpg "app-sample")
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
